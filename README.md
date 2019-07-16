@@ -16,4 +16,4 @@ cd eswarm
 执行脚本需要从dockhub.com 下载镜像，因此需要一段安装时间
 
 ### 验证执行结果
-tail -f ./out.log 能够看到实时的输出
+tail -f ./docker/out.log 能够看到实时的输出
