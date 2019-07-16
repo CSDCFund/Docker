@@ -8,7 +8,7 @@
 2. 系统中已经安装了Docker 
 
 ### 安装方法
-git clone https://github.com/CSDCFund/Docker.git eswarm
+git clone https://github.com/CSDCFund/Docker.git  eswarm
 
 cd eswarm
 
