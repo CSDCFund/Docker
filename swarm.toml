@@ -1,0 +1,7 @@
+# swarm 配置文件
+#Network ID
+NetworkID = 1278
+#http服务跨域
+Cors = "*"
+#
+NodeType = 36
